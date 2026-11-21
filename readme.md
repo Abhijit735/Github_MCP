@@ -38,7 +38,6 @@ Github_MCP/
 ├── github_mcp.py          # Main MCP server implementation
 ├── pyproject.toml         # Project configuration
 ├── uv.lock                # Locked dependency versions
-├── .gitignore             # Git ignored files
 ├── .env.example           # Environment variable template
 ├── readme.md              # Project documentation
 
