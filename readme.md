@@ -1,3 +1,4 @@
+
 ```
 # GitHub MCP Server
 
@@ -144,7 +145,8 @@ The MCP server exposes four tools:
 **Screenshot Description:**
 
 The screenshot demonstrates the GitHub MCP server connected through MCP Inspector, displaying the registered tools and an example tool execution with a structured response from the GitHub API.
-
+<img width="947" height="402" alt="Screenshot 2026-11-21 134643" src="https://github.com/user-attachments/assets/9ec3820a-933f-4507-973e-5bed24732964" />
+<img width="928" height="390" alt="Screenshot 2026-11-21 134616" src="https://github.com/user-attachments/assets/5ee9916f-647e-42a6-8848-0b55cbd7d960" />
 ## Conclusion
 
 This project demonstrates how to integrate GitHub REST API functionality with the Model Context Protocol (MCP).
