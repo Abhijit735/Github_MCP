@@ -148,9 +148,6 @@ The screenshot demonstrates the GitHub MCP server connected through MCP Inspecto
 ```
 <img width="947" height="402" alt="Screenshot 2026-11-21 134643" src="https://github.com/user-attachments/assets/e58b821e-30d8-4a7e-bf4a-597f1b968d60" />
 ```
-```
-<img width="928" height="390" alt="Screenshot 2026-11-21 134616" src="https://github.com/user-attachments/assets/6ed9638a-0686-46f0-9a18-c49fc41ad900" />
-```
 ## Conclusion
 
 This project demonstrates how to integrate GitHub REST API functionality with the Model Context Protocol (MCP).
